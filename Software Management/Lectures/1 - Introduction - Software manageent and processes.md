@@ -1,13 +1,13 @@
 24-04-2023
 
-Programming is only a part of software management. You require budgetting, convincing managers, defining the used tools, setting up the requirements, talking with customers, analyzing end-users, managing contractors, etc. This course will focus on the process and the software product itself.
+Programming is only a part of software management. You require budgeting, convincing managers, defining the used tools, setting up the requirements, talking with customers, analyzing end-users, managing contractors, etc. This course will focus on the process and the software product itself.
 
 Software management: a high level view *(slide copy)*:
-- Attempt to apply traditional engineering practises to software!  
-- This means that we attempt to control the quality of the software product by managing the software development process  
+- Attempt to apply traditional engineering practices to software!
+- This means that we attempt to control the quality of the software product by managing the software development process
 - Management consists of measuring to obtain actual values and possibly actuating with corrective measures
 - Important role for measurements (metrics) → by measuring we can infer the software quality
-- Important role for modelling the software development process → by modelling the software development process we can understand and manipulate it 
+- Important role for modelling the software development process → by modelling the software development process we can understand and manipulate it
 - And please note: ‘software engineering’ and ‘programming’ are fundamentally different!
 
 Learn the language of your audience. Reliability and such are not necessarily terms that managers or the press understand. 'Quality' is a very vague concept, even more when talking about software.
@@ -15,7 +15,7 @@ Learn the language of your audience. Reliability and such are not necessarily te
 In this course, quality is:
 1. Conformance to requirements
 	1. Sufficient quality if it conforms to its requirements
-	2. Implies requirements are clearl specified
+	2. Implies requirements are clearly specified
 	3. Non-conformance means defect
 2. Fitness for use
 	1. A system is 'of quality' when it is fit for its intended use
